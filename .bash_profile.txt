@@ -1,0 +1,4 @@
+alias запліднити='mkdir'
+alias нагодувати='cat<<'.'>file.txt'
+alias відправити='rm'
+alias оглянути='less'
